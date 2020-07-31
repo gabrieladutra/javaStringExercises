@@ -1,0 +1,5 @@
+package question23;
+
+public class Question23 {
+
+}

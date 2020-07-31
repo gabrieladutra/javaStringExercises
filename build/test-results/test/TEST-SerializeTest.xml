@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SerializeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-07-28T21:03:20" hostname="peterson-pc" time="0.051">
+  <properties/>
+  <testcase name="parseString_whenAStringIsValid_shouldReturnAIntArray()" classname="SerializeTest" time="0.023"/>
+  <testcase name="getString_whenAIntArrayIsValid_shouldReturnAString()" classname="SerializeTest" time="0.023"/>
+  <testcase name="getClassField_whenAIntArrayIsValid_shouldReturnUserInstance()" classname="SerializeTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="questions_0_10Test.question1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-31T12:56:16" hostname="peterson-pc" time="0.06">
-  <properties/>
-  <testcase name="whenAStringIsValid_shouldReturnACharAtSpecificPosition()" classname="questions_0_10Test.question1Test" time="0.06"/>
-  <system-out><![CDATA[Original String = Java Exercises!
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

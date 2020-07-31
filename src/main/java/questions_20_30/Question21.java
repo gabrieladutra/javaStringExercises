@@ -8,15 +8,14 @@ public class Question21 {
         System.out.println("---");
         System.out.println(lastIndexOfWord(name, "fox"));
         int result = 0;
-//        char[] alphabet = {'a', 'b', 'c', 'd', 'e', 'f', 'g',
-//                'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
-//                'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
-//
-//        for(int i = 0; i < alphabet.length;i++){
-//            result = lastIndexOfAlphabet(name, alphabet[i]);
-//            System.out.print("\t" + alphabet[i] + "=" + result+ "");
-//        }
+        char[] alphabet = {'a', 'b', 'c', 'd', 'e', 'f', 'g',
+                'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
+                'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
 
+        for(int i = 0; i < alphabet.length;i++){
+            result = lastIndexOfAlphabet(name, alphabet[i]);
+            System.out.print("\t" + alphabet[i] + "=" + result+ "");
+        }
     }
 
     public static String reverseString(String stringParam) {

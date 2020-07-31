@@ -5,8 +5,7 @@ public class Question29 {
         System.out.println(toLowerCaseStr("The Quick BroWn FoX!"));
     }
     public static String toLowerCaseStr(String str){
-        String s = str.toLowerCase();
-        return s;
+        return str.toLowerCase();
     }
 
 }

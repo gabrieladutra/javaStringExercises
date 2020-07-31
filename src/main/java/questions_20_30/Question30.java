@@ -5,8 +5,7 @@ public class Question30 {
         System.out.println(toUpperCaseStr("The Quick BroWn FoX!"));
     }
     public static String toUpperCaseStr(String str){
-        String s = str.toUpperCase();
-        return s;
+        return str.toUpperCase();
     }
 
 }
